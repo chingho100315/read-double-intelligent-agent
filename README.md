@@ -1,8 +1,8 @@
 # intelligent agent
 it's can to read your ai log, because Intelligent agents removed from app stores. 
 # first
-- English: you unpacked the **zip file**
-- Chinese: 首先你要解包**zip文件**
+- English: you unpacked the ```zip file```
+- Chinese: 首先你要解包 ```zip file```
 # second
 - English: next rename the **Numbers with English text**, to ```all```
 - Chinese: 然後把一堆數字夾帶英文改名成 ```all```
