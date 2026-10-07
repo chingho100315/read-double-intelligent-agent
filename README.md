@@ -1,5 +1,5 @@
 # intelligent agent
-- it's can to read your ai log, because Intelligent agents removed from app stores. 
+- it's can to read your ai log, because Intelligent agents removed from double. 
 # first
 - ```English```: you unpacked the ```zip file```
 - ```Chinese```: 首先你要解包 ```zip file```
