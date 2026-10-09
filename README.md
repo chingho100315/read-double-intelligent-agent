@@ -15,3 +15,16 @@
 # last
 - ```English```: you can running
 - ```Chinese```: 你可以運行了
+# using
+<details>
+  <summary>instruction</summary>
+
+    - e: 退出本閱讀器
+    - c: 換個智能體
+    - a: 與智能體聊天次數
+    - t: 讀取日期當天的聊天內容
+    - l: 調出與智能體聊的所有內容
+    - m: 讀取第 x 次到第 y 次的內容
+    - s: 提取儲存聊天內容
+    - sl: 提取儲存描述內容
+</details>
