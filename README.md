@@ -16,8 +16,6 @@
 - ```English```: you can running
 - ```Chinese```: 你可以運行了
 # using
-<details>
-  <summary>instruction</summary>
 
     - e: 退出本閱讀器
     - c: 換個智能體
@@ -27,4 +25,3 @@
     - m: 讀取第 x 次到第 y 次的內容
     - s: 提取儲存聊天內容
     - sl: 提取儲存描述內容
-</details>
